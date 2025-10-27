@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing Modern Websites<br>🎯 Goals: Develop myself in this field</p>
+<p align="left">✨ Develop full-stack application<br>🎯 Goals: Develop myself in this field</p>
 
 ###
 
