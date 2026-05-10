@@ -1,52 +1,70 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Ahmed Elgammal and I'm a Full-Stack Engnieer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Develop full-stack application<br>🎯 Goals: Develop myself in this field</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollographql logo"  />
-</div>
-
-###
+<h1 align="center">Hello, I'm Ahmed. You want to see something different?</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elgammal-900&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Elgammal-900&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Full+Stack+Engineer+.+Next.js+-+Nest.js;+Shipping+Ideas+into+Real%2C+Scalable+Apps)](https://git.io/typing-svg)
+
 </div>
 
-###
+## 📖 About
+I turn ideas into fast, scalable web applications that users actually enjoy.
+
+I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web apps using Next.js, Nest.js, and SQL.
+One of my proudest projects is a Quiz System App - I led the system design from scratch, architected it for high performance, and successfully delivered a platform now serving 1000+ active users.
+
+## 🏆 Achievements
+
+- Improved system reliability by 30% by designing reusable, scalable configuration that streamlined development across the entire application
+- Architected a high-performance relational SQL schema, cutting load time by 40% through strategic index optimization
+- Enhanced application security by 30% through the implementation of JWT cookie-based authentication
+
+## 🏢 Company Performance
+
+- Improved system delivery speed by 20% through effective team collaboration using Agile methodology
+- Architected a scalable system design, reducing delivery time by 30% through modular planning and reusable components
+- Identified and resolved 5 critical application bugs through code review and testing, improving project quality by 25%
+
+## 🛠️ Tech Stacks
+
+<table>
+  <tr>
+    <td>🎨 Frontend</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=ts" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <img src="https://skillicons.dev/icons?i=apollo" />
+      <img src="https://skillicons.dev/icons?i=redux" />
+      <img src="https://skillicons.dev/icons?i=nextjs" />
+    </td>
+  </tr>
+  <tr>
+    <td>⚙️ Backend</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nestjs" />
+    </td>
+  </tr>
+  <tr>
+    <td>🗄️ Database</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud & DevOps</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" />
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=githubactions" />
+    </td>
+  </tr>
+   <tr>
+    <td>🧪 Tools</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+  </tr>
+</table>
