@@ -14,15 +14,15 @@ One of my proudest projects is a Quiz System App - I led the system design from 
 
 ## 🏆 Achievements
 
-- Improved system reliability by 30% by designing reusable, scalable configuration that streamlined development across the entire application
-- Architected a high-performance relational SQL schema, cutting load time by 40% through strategic index optimization
-- Enhanced application security by 30% through the implementation of JWT cookie-based authentication
+- Sole engineer on a production backend — designed and shipped an 8-table PostgreSQL schema, 30 REST API routes, and dual complex flows (quiz engine + auth) in 4 weeks, serving real users with zero critical bugs post-deployment
+- Designed server-side pagination from the ground up — serving 10 questions per request across a 300-question bank, reducing per-call payload by 97% and ensuring consistently low-latency API responses as the system scales
+- Architected a fully config-driven quiz system — 10 unique quiz types, each with distinct theming, icons, and dark mode — designed so adding a new quiz requires a single config entry with zero changes to existing code
 
 ## 🏢 Company Performance
 
-- Improved system delivery speed by 20% through effective team collaboration using Agile methodology
-- Architected a scalable system design, reducing delivery time by 30% through modular planning and reusable components
-- Identified and resolved 5 critical application bugs through code review and testing, improving project quality by 25%
+- Improved system delivery speed through effective team collaboration using Agile methodology
+- Architected a scalable system design by reducing delivery time through modular planning and reusable components
+- Streamlined the development workflow by setting up GitHub Actions CI/CD pipeline covering automated testing, linting, TypeScript type checking, and build processes
 
 ## 🛠️ Tech Stacks
 
