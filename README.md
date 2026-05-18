@@ -10,7 +10,7 @@
 I turn ideas into fast, scalable web applications that users actually enjoy.
 
 I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL — from UI to API to database.
-One of my proudest projects is a Quiz System App — I led the system design from scratch, architected it for high performance, and successfully delivered a platform that can serve up to 1,000+ active users.
+One of my proudest projects is a Quiz System App — I led the system design from scratch, architected it for high performance, and successfully delivered a platform that can serve users.
 
 ## 🏆 Achievements
 
