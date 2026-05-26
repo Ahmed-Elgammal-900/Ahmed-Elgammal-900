@@ -14,7 +14,7 @@ One of my proudest projects is a Quiz System App — I led the system design fro
 
 ## 🏆 Achievements
 
-- Sole engineer on a production backend — designed and shipped an 8-table PostgreSQL schema, 30 REST API routes, and dual complex flows (quiz engine + auth) in 4 weeks, serving real users with zero critical bugs post-deployment
+- Lead engineer on a production backend — designed and shipped an 8-table PostgreSQL schema, 30 REST API routes, and dual complex flows (quiz engine + auth) in 4 weeks, serving real users with zero critical bugs post-deployment
 - Designed server-side pagination from the ground up — serving 10 questions per request across a 300-question bank, reducing per-call payload by 97% and ensuring consistently low-latency API responses as the system scales
 - Architected a fully config-driven quiz system — 10 unique quiz types, each with distinct theming, icons, and dark mode — designed so adding a new quiz requires a single config entry with zero changes to existing code
 
