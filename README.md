@@ -43,6 +43,7 @@ One of my proudest projects is a Quiz System App — I led the system design fro
   <tr>
     <td>⚙️ Backend</td>
     <td>
+       <img src="https://skillicons.dev/icons?i=nodejs" />
       <img src="https://skillicons.dev/icons?i=nestjs" />
     </td>
   </tr>
@@ -57,6 +58,7 @@ One of my proudest projects is a Quiz System App — I led the system design fro
     <td>☁️ Cloud & DevOps</td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws" />
+       <img src="https://skillicons.dev/icons?i=docker" />
       <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=githubactions" />
     </td>
