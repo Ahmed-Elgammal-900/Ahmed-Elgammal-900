@@ -2,14 +2,14 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Full+Stack+Engineer+.+Next.js+-+Nest.js;+Shipping+Ideas+into+Real%2C+Scalable+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&width=800&lines=Full+Stack+Engineer+.+Next.js+-+Nest.js;+Shipping+Ideas+into+Real%2C+Scalable+Apps)](https://git.io/typing-svg)
 
 </div>
 
 ## 📖 About
-I turn ideas into fast, scalable web applications that users actually enjoy.
+Architecting backend systems that hold up when it matters — low-latency APIs, clean architecture, and zero surprises in production.
 
-I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL — from UI to API to database.
+I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL — with a growing focus on backend architecture, APIs, and cloud-native systems.
 One of my proudest projects is a Quiz System App — I led the system design from scratch, architected it for high performance, and successfully delivered a platform that can serve users.
 
 ## 🏆 Achievements
