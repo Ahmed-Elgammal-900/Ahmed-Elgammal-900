@@ -7,23 +7,23 @@
 </div>
 
 ## 📖 About
-Architecting backend systems that hold up when it matters — low-latency APIs, clean architecture, and zero critical bugs when it counts.
+Architecting backend systems that deliver when it matters, combining low-latency APIs, clean architecture, and a track record of zero critical bugs.
 
-I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL — with a growing focus on backend architecture, APIs, and cloud-native systems.
-One of my proudest projects is a Quiz System App — I led the system design from scratch, architected it for high performance, and successfully delivered a platform that can serve users.
+I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL, with a growing focus on backend architecture, APIs, and cloud-native systems.
+
+One of my proudest projects is a Quiz System App, where I led the system design from scratch, architected it for high performance, and successfully delivered a platform built to serve real users.
 
 ## 🏆 Achievements
 
-- Lead engineer on a production backend — designed and shipped an 8-table PostgreSQL schema, 30 REST API routes, and dual complex flows (quiz engine + auth) in 4 weeks, serving real users with zero critical bugs post-deployment
-- Designed server-side pagination from the ground up — serving 10 questions per request across a 300-question bank, reducing per-call payload by 97% and ensuring consistently low-latency API responses as the system scales
-- Engineered an O(1) LRU Cache from scratch in TypeScript using a Hash Map + Doubly Linked
-List, reaching 5.1M ops/sec with monotonically-correct throughput scaling across all cache sizes.
+- Lead engineer for a production backend; designed and shipped an 8-table PostgreSQL schema, 30+ REST API routes, and core business logic (quiz engine & auth system), serving active users with zero post-deployment critical bugs.
+- Slashed network payload size by 67% by engineering a server-side pagination pipeline, reducing single-request overhead from 30 questions to 10 to guarantee low-latency API delivery.
+- Engineered an O(1) LRU Cache from scratch in TypeScript using a Hash Map + Doubly Linked List, reaching 5.1M ops/sec with monotonically-correct throughput scaling across all cache sizes.
 
 ## 🏢 Workflow & Engineering Practices
 
-- Improved system delivery speed through effective team collaboration using Agile methodology
-- Architected a scalable system design by reducing delivery time through modular planning and reusable components
-- Streamlined the development workflow by setting up GitHub Actions CI/CD pipeline covering automated testing, linting, TypeScript type checking, and build processes
+- Improved system delivery speed through effective team collaboration using Agile methodology.
+- Architected a scalable system design by reducing delivery time through modular planning and reusable components.
+- Streamlined the development workflow by setting up GitHub Actions CI/CD pipeline covering automated testing, linting, TypeScript type checking, and build processes.
 
 ## 🛠️ Tech Stacks
 
