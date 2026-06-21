@@ -19,7 +19,7 @@ One of my proudest projects is a Quiz System App, where I led the system design 
 - Slashed network payload size by 67% by engineering a server-side pagination pipeline, reducing single-request overhead from 30 questions to 10 to guarantee low-latency API delivery.
 - Engineered an O(1) LRU Cache from scratch in TypeScript using a Hash Map + Doubly Linked List, reaching 5.1M ops/sec with monotonically-correct throughput scaling across all cache sizes.
 
-## 🏢 Workflow & Engineering Practices
+## ⚙️ Workflow & Engineering Practices
 
 - Improved system delivery speed through effective team collaboration using Agile methodology.
 - Architected a scalable system design by reducing delivery time through modular planning and reusable components.
