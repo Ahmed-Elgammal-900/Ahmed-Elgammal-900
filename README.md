@@ -15,7 +15,7 @@ I thrive on understanding the core mechanics of software, prioritizing type safe
 
 -   **O(1) LRU Cache From Scratch:** Engineered in TypeScript using a Hash Map + Doubly Linked List, reaching **5.1M ops/sec** with monotonically-correct throughput scaling across all cache sizes.
 -   **Quizzer System Design:** Owned the entire architecture for an advanced CS quiz platform. 
-    -   Designed and shipped an **8-table PostgreSQL schema**, 30+ REST API routes, and core business logic (quiz engine & auth) with zero post-deployment critical bugs.
+    -   Designed and shipped an **8-table PostgreSQL schema**, **30+ REST API routes**, and core business logic (quiz engine & auth) with zero post-deployment critical bugs.
     -   Slashed network payload size by **67%** by engineering a server-side pagination pipeline (reducing overhead from 30 questions to 10).
 
 ### ⚙️ Workflow & Engineering Practices
