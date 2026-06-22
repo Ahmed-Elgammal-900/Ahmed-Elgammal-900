@@ -7,11 +7,11 @@
 </div>
 
 ## 📖 About
-Architecting backend systems that deliver when it matters, combining low-latency APIs, clean architecture, and a track record of zero critical bugs.
+Architecting backend systems that deliver when it matters, combining low-latency APIs, clean architecture, and production-grade reliability.
 
-I'm a Full-Stack Engineer with 1.5 years of experience building end-to-end web applications, currently specializing in Next.js, Nest.js, TypeScript, and SQL, with a growing focus on backend architecture, APIs, and cloud-native systems.
+Full-Stack Engineer specializing in Next.js, NestJS, TypeScript, and SQL, with a dedicated focus on backend architecture, high-performance APIs, and cloud-native systems. I thrive on understanding the core mechanics of software, prioritizing low-latency delivery, type safety, and engineering optimized data structures from scratch to handle heavy production constraints.
 
-One of my proudest projects is a Quiz System App, where I led the system design from scratch, architected it for high performance, and successfully delivered a platform built to serve real users.
+One of my proudest achievements is Quizzer, an advanced computer science quiz platform where I owned the entire system design from scratch, architecting a high-performance backend tailored for seamless user delivery.
 
 ## 🏆 Achievements
 
