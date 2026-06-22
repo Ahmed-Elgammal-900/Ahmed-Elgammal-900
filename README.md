@@ -7,7 +7,7 @@
 </div>
 
 ## 📖 About
-Architecting backend systems that deliver when it matters—combining low-latency APIs, clean architecture, and production-grade reliability. 
+Architecting backend systems that deliver when it matters, combining low-latency APIs, clean architecture, and production-grade reliability. 
 
 I thrive on understanding the core mechanics of software, prioritizing type safety, and engineering optimized data structures from scratch to handle heavy production constraints.
 
