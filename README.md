@@ -17,6 +17,9 @@ I thrive on understanding the core mechanics of software, prioritizing type safe
 -   **Quizzer System Design:** Owned the entire architecture for an advanced CS quiz platform. 
     -   Designed and shipped an **8-table PostgreSQL schema**, **30+ REST API routes**, and core business logic (quiz engine & auth) with zero post-deployment critical bugs.
     -   Slashed network payload size by **67%** by engineering a server-side pagination pipeline (reducing overhead from 30 questions to 10).
+-   **Job Queue Engine:** Architected a background processing service to manage, schedule, and execute asynchronous tasks outside the main application lifecycle, maximizing responsiveness.
+    -   Achieved **322,000+ jobs/sec** throughput by implementing a non-blocking event loop, smoothly scaling concurrent loads from **1,000 to 10,000 concurrent tasks** with zero dropped events.
+    -   Guaranteed reliable retry behavior across **100 concurrent failing jobs**, ensuring every failure retried precisely **3 times** before safely routing to a dead-letter queue with zero silent drops.
 
 ### ⚙️ Workflow & Engineering Practices
 
