@@ -8,8 +8,7 @@
 
 ### 📖 About
 
-Building fast, accessible, and production-ready user interfaces — from pixel-perfect responsive layouts to performance-tuned rendering pipelines.
-I care about the details that make an app feel fast: SSR, clean component architecture, and UI that holds up across every screen size.
+Building fast, accessible, and production-ready user interfaces, from responsive layouts to performance-tuned rendering pipelines. I care about the details that make an app feel fast: SSR, clean component architecture, and UI that holds up across every screen size.
 
 ### 🎨 Core Technical Highlights & Achievements
 **Quizzer Platform**
