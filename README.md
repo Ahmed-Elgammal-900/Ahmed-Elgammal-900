@@ -6,19 +6,15 @@
 
 </div>
 
-## 📖 About
-Architecting backend systems that deliver when it matters, combining low-latency APIs, clean architecture, and production-grade reliability. 
+### 📖 About
 
-I thrive on understanding the core mechanics of software, prioritizing type safety, and engineering optimized data structures from scratch to handle heavy production constraints.
+Building fast, accessible, and production-ready user interfaces — from pixel-perfect responsive layouts to performance-tuned rendering pipelines.
+I care about the details that make an app feel fast: SSR, clean component architecture, and UI that holds up across every screen size.
 
-### 🔬 Core Technical Highlights & Achievements
-
--   **O(1) LRU Cache From Scratch:** Engineered in TypeScript using a Hash Map + Doubly Linked List, reaching **5.1M ops/sec** with monotonically-correct throughput scaling across all cache sizes.
--   **Quizzer System Design:** Owned the entire architecture for an advanced CS quiz platform. 
-    -   Designed and shipped an **8-table PostgreSQL schema**, **30+ REST API routes**, and core business logic (quiz engine & auth) with zero post-deployment critical bugs.
-    -   Slashed network payload size by **67%** by engineering a server-side pagination pipeline (reducing overhead from 30 questions to 10).
--   **Job Queue Engine:** Architected a background processing service to manage, schedule, and execute asynchronous tasks outside the main application lifecycle, maximizing responsiveness.
-    -   Achieved **322,000+ jobs/sec** throughput by implementing a non-blocking event loop, smoothly scaling concurrent loads from **1,000 to 10,000 concurrent tasks** with zero dropped events.
+### 🎨 Core Technical Highlights & Achievements
+**Quizzer Platform**
+- Frontend & SSR: Designed and built a fully responsive UI from scratch for an advanced CS quiz platform using React + Tailwind CSS, delivering a seamless experience across mobile, tablet, and desktop.
+- Implemented Server-Side Rendering (SSR) in Next.js to improve initial page load speed and SEO performance.
 
 ### ⚙️ Workflow & Engineering Practices
 
