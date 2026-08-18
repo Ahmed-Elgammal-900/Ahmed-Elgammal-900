@@ -8,12 +8,19 @@
 
 ### 📖 About
 
-Building fast, accessible, and production-ready user interfaces, from responsive layouts to performance-tuned rendering pipelines. I care about the details that make an app feel fast: SSR, clean component architecture, and UI that holds up across every screen size.
+I build full-stack applications end to end, from responsive UIs to the APIs and databases powering them.
 
-### 🎨 Core Technical Highlights & Achievements
-**Quizzer Platform**
-- Frontend & SSR: Designed and built a fully responsive UI from scratch for an advanced CS quiz platform using React + Tailwind CSS, delivering a seamless experience across mobile, tablet, and desktop.
-- Implemented Server-Side Rendering (SSR) in Next.js to improve initial page load speed and SEO performance.
+### 🔬 Core Technical Highlights & Achievements
+
+-   **Quizzer System Design:** Owned the entire architecture for an advanced CS quiz platform.
+    -   Implemented server-side rendering (SSR) in Next.js to improve page load speed and SEO performance.
+    -   Designed and built a fully responsive UI for a quiz platform from scratch, using React + Tailwind CSS, ensuring seamless experience across mobile, tablet, and desktop.
+    -   Improved frontend consistency across the product by standardizing on a shared component system.
+    -   Designed and shipped an **8-table PostgreSQL schema**, **30+ REST API routes**, and core business logic (quiz engine & auth) with zero post-deployment critical bugs.
+    -   Slashed network payload size by **67%** by engineering a server-side pagination pipeline (reducing overhead from 30 questions to 10).
+
+-  Engineered LRU Cache using a Hash Map + Doubly Linked List, reaching **5.1M ops/sec** with monotonically-correct throughput scaling across all cache sizes.
+-  Achieved a peak processing throughput of over 322,000 jobs/second under synthetic workloads, scaling seamlessly from 1,000 to 10,000 queued events with 0% event dropping.
 
 ### ⚙️ Workflow & Engineering Practices
 
@@ -24,6 +31,12 @@ Building fast, accessible, and production-ready user interfaces, from responsive
 ## 🛠️ Tech Stacks
 
 <table>
+    <tr>
+    <td>💻 Programming Languages</td>
+    <td>
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+    </td>
+  </tr>
   <tr>
     <td>🎨 Frontend</td>
     <td>
@@ -56,6 +69,7 @@ Building fast, accessible, and production-ready user interfaces, from responsive
     <td>
       <img src="https://skillicons.dev/icons?i=aws" />
       <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=docker" />
       <img src="https://skillicons.dev/icons?i=githubactions" />
     </td>
   </tr>
