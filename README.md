@@ -20,7 +20,7 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
     -   Slashed network payload size by **67%** by engineering a server-side pagination pipeline (reducing overhead from 30 questions to 10).
 
 -  Engineered LRU Cache using a Hash Map + Doubly Linked List, reaching **5.1M ops/sec** with monotonically-correct throughput scaling across all cache sizes.
--  Achieved a peak processing throughput of over 322,000 jobs/second under synthetic workloads, scaling seamlessly from 1,000 to 10,000 queued events with 0% event dropping.
+-  Achieved a peak processing throughput of over **322,000 jobs/second** under synthetic workloads, scaling seamlessly from 1,000 to 10,000 queued events with 0% event dropping.
 
 ### ⚙️ Workflow & Engineering Practices
 
