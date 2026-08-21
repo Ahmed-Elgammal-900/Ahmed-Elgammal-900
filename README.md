@@ -45,6 +45,7 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
       <img src="https://skillicons.dev/icons?i=ts" />
       <img src="https://skillicons.dev/icons?i=bootstrap" />
       <img src="https://skillicons.dev/icons?i=tailwind" />
+      <img src="https://skillicons.dev/icons?i=react" />
       <img src="https://skillicons.dev/icons?i=apollo" />
       <img src="https://skillicons.dev/icons?i=redux" />
       <img src="https://skillicons.dev/icons?i=nextjs" />
