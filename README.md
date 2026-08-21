@@ -53,8 +53,9 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
   <tr>
     <td>⚙️ Backend</td>
     <td>
-       <img src="https://skillicons.dev/icons?i=nodejs" />
+      <img src="https://skillicons.dev/icons?i=nodejs" />
       <img src="https://skillicons.dev/icons?i=nestjs" />
+      <img src="https://skillicons.dev/icons?i=graphql" />
     </td>
   </tr>
   <tr>
