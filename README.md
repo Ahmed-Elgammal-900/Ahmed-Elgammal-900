@@ -51,7 +51,7 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
       <img src="https://skillicons.dev/icons?i=apollo" />
       <img src="https://skillicons.dev/icons?i=redux" />
       <img src="https://skillicons.dev/icons?i=nextjs" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" width="48" height="48" />
     </td>
   </tr>
   <tr>
