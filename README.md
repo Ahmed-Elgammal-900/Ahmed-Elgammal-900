@@ -35,7 +35,6 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
     <td>💻 Programming Languages</td>
     <td>
     <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
-    <img src="https://skillicons.dev/icons?i=go" />
     </td>
   </tr>
   <tr>
@@ -51,7 +50,6 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
       <img src="https://skillicons.dev/icons?i=apollo" />
       <img src="https://skillicons.dev/icons?i=redux" />
       <img src="https://skillicons.dev/icons?i=nextjs" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" width="48" height="48" />
     </td>
   </tr>
   <tr>
@@ -60,7 +58,6 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
       <img src="https://skillicons.dev/icons?i=nodejs" />
       <img src="https://skillicons.dev/icons?i=nestjs" />
       <img src="https://skillicons.dev/icons?i=graphql" />
-      <img src="https://skillicons.dev/icons?i=go" />
     </td>
   </tr>
   <tr>
