@@ -65,14 +65,12 @@ I build full-stack applications end to end, from responsive UIs to the APIs and 
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" />
       <img src="https://skillicons.dev/icons?i=postgres" />
-      <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/9798f541-3bfe-4dd0-a963-54d305c5743c" />
     </td>
   </tr>
   <tr>
     <td>☁️ Cloud & DevOps</td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws" />
-       <img src="https://skillicons.dev/icons?i=gcp" />
       <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=docker" />
       <img src="https://skillicons.dev/icons?i=githubactions" />
